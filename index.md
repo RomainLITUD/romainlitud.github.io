@@ -4,19 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Guopeng LI has an international and multi-disciplinary educational background. I received the B.S. degree in physics from Nanjing University (China) in 2015. Then I came to ENSTA-Paris (France) and received the Engineering Diploma and Master's degree in applied mathematics in 2018. Now I am currently pursuing the Ph.D. degree in transport and planning at Delft University of Technology under the supervision of Prof.dr.ir.J.W.C(Hans) van Lint. If you want to contact me, welcome to send an email to (G.Li-5@tudelft.nl)
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Intelligent Transportation Systems** 
+- **Driving behaviour modelling and autonomoud driving**
+- **Knowledge-driven AI models**
+- **Robust and exaplainable AI models**
+- **Causality discovery and causal inference**
 
 ## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Sep. 2022]** I will give a talk with title **Uncertainty in data-driven human driver's intention prediction** at TRAIL Congress 2022
+- **[Sep. 2022]** I will start to assist teaching a new course **Modelling, Uncertainty, and Data**
 
 ## Publications
 
