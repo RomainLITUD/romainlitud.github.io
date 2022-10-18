@@ -1,24 +1,24 @@
 # Basic Information 
-title: Your Name
+title: Guopeng LI
 position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+affiliation: DiTTlab (Data analysis and traffic simulation) - Delft University of Technology
+email: G.Li-5@tudelft.nl
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: minimal academic
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+description: Welcome to Guopeng's page!
 canonical: https://minimal-light.yyliu.net/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-github_link: https://github.com/yaoyao-liu/minimal-light
-linkedin: https://www.linkedin.com/
+# google_scholar: https://scholar.google.com/
+github_link: https://github.com/RomainLITUD
+linkedin: https://www.linkedin.com/in/guopeng-li-120b02172/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/photo.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
