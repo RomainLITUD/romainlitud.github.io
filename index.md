@@ -3,8 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-
-Guopeng LI has an international and multi-disciplinary educational background. I received the B.S. degree in physics from Nanjing University (China) in 2015. Then I came to ENSTA-Paris (France) and received the Engineering Diploma and Master's degree in applied mathematics in 2018. Now I am currently pursuing the Ph.D. degree in transport and planning at Delft University of Technology under the supervision of Prof.dr.ir.J.W.C(Hans) van Lint. If you want to contact me, welcome to send an email to (G.Li-5@tudelft.nl)
+-Guopeng LI has an international and multi-disciplinary educational background. I received the B.S. degree in physics from Nanjing University (China) in 2015. Then I came to ENSTA-Paris (France) and received the Engineering Diploma and Master's degree in applied mathematics in 2018. Now I am currently pursuing the Ph.D. degree in transport and planning at Delft University of Technology under the supervision of Prof.dr.ir.J.W.C(Hans) van Lint. If you want to contact me, welcome to send an email to (G.Li-5@tudelft.nl)
 
 ## Research Interests
 
