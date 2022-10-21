@@ -45,7 +45,7 @@ Guopeng LI has an international and multi-disciplinary educational background.
   <br>
   [[PDF](https://www.sciencedirect.com/science/article/pii/S0968090X21002011)] [[Code](https://github.com/RomainLITUD/Multistep-Traffic-Forecasting-by-Dynamic-Graph-Convolution)]
   
- - **Dynamic Graph Filters Networks: A Gray-box Model for Multistep Traffic Forecasting**
+- **Dynamic Graph Filters Networks: A Gray-box Model for Multistep Traffic Forecasting**
   <br>
   **Guopeng LI**, Victor L. Knoop, J.W.C. van Lint
   <br>
@@ -53,7 +53,7 @@ Guopeng LI has an international and multi-disciplinary educational background.
   <br>
   [[PDF](https://ieeexplore.ieee.org/xpl/conhome/9294153/proceeding)]
   
-  - **Analysis of Stochasticity and Heterogeneity of Car-following Behavior Based on Data-driven Modeling**
+- **Analysis of Stochasticity and Heterogeneity of Car-following Behavior Based on Data-driven Modeling**
   <br>
   Yasuhiro Shiomi, **Guopeng LI**, Victor L. Knoop
   <br>
