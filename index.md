@@ -3,12 +3,13 @@ layout: homepage
 ---
 
 ## About Me
--Guopeng LI has an international and multi-disciplinary educational background. I received the B.S. degree in physics from Nanjing University (China) in 2015. Then I came to ENSTA-Paris (France) and received the Engineering Diploma and Master's degree in applied mathematics in 2018. Now I am currently pursuing the Ph.D. degree in transport and planning at Delft University of Technology under the supervision of Prof.dr.ir.J.W.C(Hans) van Lint. If you want to contact me, welcome to send an email to (G.Li-5@tudelft.nl)
+Guopeng LI has an international and multi-disciplinary educational background. 
+-I received the B.S. degree in *physics* from *Nanjing University* (China) in 2015. Then I came to *ENSTA-Paris* (France) and received the Engineering Diploma and Master's degree in *applied mathematics* in 2018. Now I am currently pursuing the Ph.D. degree in *transport and planning* at *Delft University of Technology* (Netherlands) under the supervision of Prof.dr.ir.J.W.C(Hans) van Lint. If you want to contact me, welcome to send an email to (G.Li-5@tudelft.nl)
 
 ## Research Interests
 
 - **Intelligent Transportation Systems** 
-- **Driving behaviour modelling and autonomoud driving**
+- **Driving behaviour modelling and autonomous driving**
 - **Knowledge-driven AI models**
 - **Robust and exaplainable AI models**
 - **Causality discovery and causal inference**
@@ -16,34 +17,55 @@ layout: homepage
 ## News
 - **[Sep. 2022]** I will give a talk with title **Uncertainty in data-driven human driver's intention prediction** at TRAIL Congress 2022
 - **[Sep. 2022]** I will start to assist teaching a new course **Modelling, Uncertainty, and Data**
+- **[May. 2022]** I am looking for a master student for a graduation study: **Intra-driver heterogeneity in car-following behaviours**
 
 ## Publications
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **UQnet: Quantifying Uncertainty in Trajectory Prediction by a Non-Parametric and Generalizable Approach**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **Guopeng LI**, Zirui LI, Victor L. Knoop, J.W.C. van Lint
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  Pre-printed and under review **SSRN**
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4241523)] [[Code](https://github.com/RomainLITUD/UQnet-arxiv)] 
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Estimate the limit of predictability in short-term traffic forecasting: An entropy-based approach**
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  **Guopeng LI**, Victor L. Knoop, J.W.C. van Lint
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  **Transportation Research Part C: Emerging Technology**.
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  [[PDF](https://www.sciencedirect.com/science/article/pii/S0968090X22000535)]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
+- **Multistep traffic forecasting by dynamic graph convolution: Interpretations of real-time spatial correlations**
   <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
+  **Guopeng LI**, Victor L. Knoop, J.W.C. van Lint
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
+  **Transportation Research Part C: Emerging Technology**.
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+  [[PDF](https://www.sciencedirect.com/science/article/pii/S0968090X21002011)] [[Code](https://github.com/RomainLITUD/Multistep-Traffic-Forecasting-by-Dynamic-Graph-Convolution)]
+  
+ - **Dynamic Graph Filters Networks: A Gray-box Model for Multistep Traffic Forecasting**
+  <br>
+  **Guopeng LI**, Victor L. Knoop, J.W.C. van Lint
+  <br>
+  IEEE International Conference on Intelligent Transportation **ITSC(2020)**.
+  <br>
+  [[PDF](https://ieeexplore.ieee.org/xpl/conhome/9294153/proceeding)]
+  
+  - **Analysis of Stochasticity and Heterogeneity of Car-following Behavior Based on Data-driven Modeling**
+  <br>
+  Yasuhiro Shiomi, **Guopeng LI**, Victor L. Knoop
+  <br>
+  Transportation Research Record **TRB(2022)**.
 
 ## Services
 
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+- Conference Reviewers: ITSC, TRB
+- Journal Reviewers: IEEE T-ITS, Transportation research Part B: Methodology, Transportation science
+
+## Hobbies
+
+- Running and Marathon
+- Movies
+- Reading
